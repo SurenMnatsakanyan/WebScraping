@@ -1,0 +1,8 @@
+domain	gplay_url
+gorzdrav.org	https://play.google.com/store/apps/details?id=com.platfomni.gorzdrav&gl=ru
+366.ru	https://play.google.com/store/apps/details?id=com.platfomni.apteka366&gl=ru
+akson.ru	https://play.google.com/store/apps/details?id=com.akson.aksonapp&gl=ru
+akusherstvo.ru	https://play.google.com/store/apps/details?id=com.notissimus.akusherstvo.Android&gl=ru
+aromarket.ru	https://play.google.com/store/apps/details?id=com.aromarket.shop&gl=ru
+chefmarket.ru	https://play.google.com/store/apps/details?id=com.chefmarket&gl=ru
+detmir.ru	https://play.google.com/store/apps/details?id=ru.detmir.dmbonus&gl=ru
